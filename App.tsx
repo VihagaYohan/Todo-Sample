@@ -5,7 +5,7 @@ const App = () => {
   return (
     <View>
       <Button
-        title="Hello to the tester"
+        title="Hello to the tester1"
         onPress={() => {
           setTimeout(() => {
             setMessage('Hello Tester');
